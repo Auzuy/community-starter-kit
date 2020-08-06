@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome! This is an exercise that helps coding and learning on Github with others be fun!
